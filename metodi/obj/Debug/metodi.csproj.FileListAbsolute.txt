@@ -1,0 +1,6 @@
+E:\NP_ITMariela\Masivi\metodi\bin\Debug\metodi.exe.config
+E:\NP_ITMariela\Masivi\metodi\bin\Debug\metodi.exe
+E:\NP_ITMariela\Masivi\metodi\bin\Debug\metodi.pdb
+E:\NP_ITMariela\Masivi\metodi\obj\Debug\metodi.exe
+E:\NP_ITMariela\Masivi\metodi\obj\Debug\metodi.pdb
+E:\NP_ITMariela\Masivi\metodi\obj\Debug\metodi.csprojResolveAssemblyReference.cache

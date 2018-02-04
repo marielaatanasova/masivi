@@ -1,0 +1,6 @@
+E:\NP_ITMariela\Masivi\masivi2\bin\Debug\masivi2.exe.config
+E:\NP_ITMariela\Masivi\masivi2\bin\Debug\masivi2.exe
+E:\NP_ITMariela\Masivi\masivi2\bin\Debug\masivi2.pdb
+E:\NP_ITMariela\Masivi\masivi2\obj\Debug\masivi2.csprojResolveAssemblyReference.cache
+E:\NP_ITMariela\Masivi\masivi2\obj\Debug\masivi2.exe
+E:\NP_ITMariela\Masivi\masivi2\obj\Debug\masivi2.pdb

@@ -1,0 +1,6 @@
+E:\NP_ITMariela\Masivi\statistika\bin\Debug\statistika.exe.config
+E:\NP_ITMariela\Masivi\statistika\bin\Debug\statistika.exe
+E:\NP_ITMariela\Masivi\statistika\bin\Debug\statistika.pdb
+E:\NP_ITMariela\Masivi\statistika\obj\Debug\statistika.csprojResolveAssemblyReference.cache
+E:\NP_ITMariela\Masivi\statistika\obj\Debug\statistika.exe
+E:\NP_ITMariela\Masivi\statistika\obj\Debug\statistika.pdb
